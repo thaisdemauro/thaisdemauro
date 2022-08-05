@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thaisdemauro
 -  🌱 I’m currently learning 
-- - 📫 How to reach me ...
+-  📫 How to reach me @thaisdemauro
 
 <!---
 thaisdemauro/thaisdemauro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
